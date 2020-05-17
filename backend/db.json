@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira Silva",
+      "email": "ao@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Júlia da Silva",
+      "email": "mjs@gmail.com"
+    },
+    {
+      "name": "sillas",
+      "email": "sillasvinicius0403@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "unaroadmap",
+      "email": "ammssw.squad@gmail.com",
+      "id": 4
+    }
+  ]
+}
